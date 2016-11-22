@@ -217,6 +217,25 @@ section.success {
   -webkit-transition: all ease 0.5s;
   -moz-transition: all ease 0.5s;
 }
+
+#portfolio .portfolio-item .portfolio-caption {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: white;
+  text-align: center;
+  padding: 25px;
+}
+#portfolio .portfolio-item .portfolio-caption h4 {
+  text-transform: none;
+  margin: 0;
+}
+#portfolio .portfolio-item .portfolio-caption p {
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: italic;
+  font-size: 16px;
+  margin: 0;
+}
+
 #portfolio .portfolio-item .portfolio-link .caption:hover {
   opacity: 1;
 }
@@ -370,7 +389,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 .btn-success {
-  color: white;
+  color: #e4e4e4;
   background-color: #1182d6;
   border-color: #1182d6;
   font-weight: 700;
@@ -380,7 +399,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-success:active,
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
-  color: white;
+  color: #e4e4e4;
   background-color: #1182d6;
   border-color: #1182d6;
 }
@@ -409,7 +428,7 @@ fieldset[disabled] .btn-success.active {
 }
 .btn-success .badge {
   color: #1182d6;
-  background-color: white;
+  background-color: #e4e4e4;
 }
 .btn-social {
   display: inline-block;
