@@ -76,7 +76,6 @@ hr.star-primary:after {
 
 .img-centered {
     margin: 0 auto;
-    width: 407px;
 }
 
 header {
@@ -266,7 +265,6 @@ section.success {
     background-color: white;
     text-align: center;
     padding: 25px;
-    object-fit: cover;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -561,7 +559,6 @@ footer .footer-below {
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
-    object-fit: contain;
 }
 
 .portfolio-modal .modal-content .item-details {
