@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
             platforms: ["Nintendo Switch"],
             youtubeId: "afY3p7qSOAQ",
             description: "<blockquote><i>Convoy is a tactical roguelike-like inspired by Mad Max and FTL in which you cross a wasteland in search of parts for your broken ship. Presented in pixel art and set in a future post-apocalyptic setting, Convoy is a squad based tactical combat roguelike-like in its core.</i></blockquote>"
-                + "<br>Convoy is a game which was originally released in 2015 for PC. The original creators of the game approached Triangle Studios with the idea of porting the game to Nintendo Switch. As I just finished the Switch port of It came from space and ate our brains I could immediately use that knowledge to start working on the Switch port of Convoy.",
+                + "<br>Convoy is a game which was originally released in 2015 for PC. The original creators of the game approached Triangle Studios with the idea of porting the game to Nintendo Switch. As I just finished the Nintendo Switch port of It came from space and ate our brains I could immediately use that knowledge to start working on the Nintendo Switch port of Convoy.",
             myrole: "I was responsible for porting the game to Nintendo Switch. This included optimizing memory usage as the game originally used far more memory than was available on the Nintendo Switch. But also implementing everything that was needed to get the game through Nintendo's certification process such as saving/loading and supporting the Nintendo Switch's various control options.",
             techStack: ["Unity", "C#", "Nintendo Switch SDK", "Memory Optimization"],
             projectLink: "https://www.nintendo.com/nl-nl/Games/Nintendo-Switch-download-software/Convoy-A-Tactical-Roguelike-1748121.html"
@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', () => {
             youtubeId: "CPKpfTElzrM",
             description: "<blockquote><i>A merciless alien species that feeds on human brains (duh) has invaded the Earth. Who can stand up to them? You, obviously! Save the world—or at least yourself. Send aliens to oblivion in It Came From Space and Ate Our Brains—a unique top-down arcade shooter.<br>Addicting gameplay elements, co-op mode, and a way to turn aliens into goo? It's all here! Explore atmospheric locations with a flashlight and a weapon powerful enough to blast those unwanted intergalactic guests back into space. Survive hordes of enemies trying to corner you and get inside your skull… at least until you set a new high score and die like a badass!</i></blockquote>"
                 + "<br>It came from space and ate our brains was originally released on Steam in 2015 before I started working for Triangle Studios. In 2019 a rerelease was announced for all major consoles and I took responsibilty over the Nintendo Switch version of the game a platform both Triangle Studios and I had no prior experience with. I had to get familiar with Nintendo's SDK and the specific requirements for porting to the Nintendo Switch. "
-                + "<br><br>About a year after the rerelease I revisited this project as we decided to also release the game on Google Stadia as a way to learn how to develop for that platform. Just as with the Switch, this was a new platform for both the studio and me. And I was responsible for getting the game running on Stadia and getting it through certification.",
+                + "<br><br>About a year after the rerelease I revisited this project as we decided to also release the game on Google Stadia as a way to learn how to develop for that platform. Just as with the Nintendo Switch, this was a new platform for both the studio and me. And I was responsible for getting the game running on Stadia and getting it through certification.",
             myrole: "I was responsible for getting the game running on Nintendo Switch and Google Stadia. This included meeting the requirements for each platform, fixing bugs, optimizing performance, implementing platform specific features and getting the game through certification.",
             techStack: ["Unity", "C#", "Console Porting", "Nintendo Switch SDK", "Google Stadia SDK"],
             projectLink: "https://www.nintendo.com/nl-nl/Games/Nintendo-Switch-download-software/It-came-from-space-and-ate-our-brains-1701372.html"
@@ -223,7 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
             category: "8D-Games",
             platforms: ["PC"],
             youtubeId: "KIsZwpmYs9Q",
-            description: "A promotional Bejeweled-like game with an Easter theme which I created during my internship at 8D-Games.",
+            description: "A promotional Bejeweled-like game with an Easter theme that I created during my internship at 8D-Games.",
             myrole: "The game was created with C# in the Unity3D engine. I created this game together with a 2D art intern who created all the sprites for the game. And I was responsible for all the technical aspects of it.<br>It's a Bejeweled-like puzzle game where the user has to swap objects with adjacent objects to create chains of three or more of the same object. When the timer reaches zero the user is game over and can send their score and email address to a database.",
             techStack: ["Unity", "C#", "WebGL", "SQL"],
             projectLink: "https://jvdmeulen.itch.io/eastergame?secret=nMGa44tECUW8VXySjA8nDrgBqxw"
@@ -233,7 +233,7 @@ document.addEventListener('DOMContentLoaded', () => {
             category: "8D-Games",
             platforms: ["PC"],
             youtubeId: "Juvp4gZDD5w",
-            description: "A promotional Zuma-like game for the Dutch holiday Sinterklaas which I created during my internship at 8D-Games.",
+            description: "A promotional Zuma-like game for the Dutch holiday Sinterklaas that I created during my internship at 8D-Games.",
             myrole: "The game was created with the Phaser Framework in JavaScript. I created this game together with a 2D art intern who created all the sprites for the game. And I was responsible for all the technical aspects of it.<br>It's a Zuma-like puzzle game where the user has to shoot colored presents at a moving line of presents to create matches of three or more of the same color. When the presents reach the water the user is game over and can send their score and email address to a database.",
             techStack: ["Phaser Framework", "JavaScript", "HTML5"],
             projectLink: "https://jvdmeulen.itch.io/sintgame?secret=vCTRXFvpCZHaBWAmWz7Tw42mJXM"
