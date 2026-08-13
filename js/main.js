@@ -203,7 +203,7 @@ document.addEventListener('DOMContentLoaded', () => {
             category: "Snap Finger Click",
             platforms: ["PlayStation 4"],
             youtubeId: "FIP0YSPgP90",
-            description: "A dynamic Playstation 4 Theme for Snap Finger Click, a UK based game studio.",
+            description: "A dynamic Playstation 4 Theme for Snap Finger Click, a UK-based game studio.",
             myrole: "My job was to research all the requirements of a dynamic PlayStation theme and discuss this with the team. Once all required assets were created I put everything together into a fully functional dynamic Playstation 4 theme.<br>After the theme was created I ensured that it was compliant with all Sony's requirements and guidelines. And I submitted the theme to Sony for certification.",
             techStack: ["XML", "PlayStation 4 SDK"],
             projectLink: "https://store.playstation.com/#!/nl-nl/games/thema/football-(sports)-dynamic-theme-act-it-out/cid=EP0826-CUSA02454_00-ETH0000000000583"
