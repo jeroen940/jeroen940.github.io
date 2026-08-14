@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
             category: "Triangle Studios",
             platforms: ["Steam", "Xbox One", "Xbox Series S|X", "PlayStation 4", "PlayStation 5", "Nintendo Switch", "Google Stadia"],
             youtubeId: "kji2L0gp4tk",
-            description: "Immediately after the release of From Space we started working on new content to expand the game. Operation Clear skies is DLC which adds a new story mode to the game. And Molten Iron and Concrete Jungle contain additional levels for the Resistance Mode which is an additional game mode that was added in a free update after the release.",
+            description: "Immediately after the release of From Space we started working on new content to expand the game. Operation Clear Skies, Molten Iron and Concrete Jungle are three separate DLCs for the game. Operation Clear Skies is a new story mode and Molten Iron and Concrete Jungle contain additional levels for the Resistance Mode which is an additional game mode that was added in a free update after the release.",
             myrole: "I assisted with implementing the new content for the DLCs such as new weapons, items and perks. And in addition to that I also implemented support for DLC on Nintendo Switch, PlayStation and Stadia.",
             techStack: ["Unity", "C#", "Nintendo Switch SDK", "PlayStation SDK", "Stadia SDK", "Memory Optimization", "Online Multiplayer"],
             projectLink: "https://store.steampowered.com/bundle/39338/From_Space__Resistance_Bundle/"
